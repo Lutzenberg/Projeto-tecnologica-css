@@ -49,6 +49,12 @@
     margin-bottom: 20px;
     text-align: justify;
 }
-
+.data-post{
+    font-size: 13px;
+    border-bottom: 1px solid #0066CC;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
     
 
